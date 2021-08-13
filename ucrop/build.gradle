@@ -1,4 +1,7 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.yang625699606'
+
 def cfgs = rootProject.ext
 android {
     compileSdkVersion cfgs.compileSdkVersion
