@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/picture_library/build/
+/ucrop/build/
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules/
+/app/.gitignore
+/image_lib/.gitignore
+/local.properties
